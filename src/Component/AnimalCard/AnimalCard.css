@@ -1,0 +1,10 @@
+.animal-wrapper {
+  border: 1px solid black;
+  margin: 10px 0;
+  padding: 10px;
+  width: 300px;
+}
+
+.animal-wrapper h3 {
+  font-style: italic;
+}

@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.menu button {
+  margin-right: 8px;
+  padding: 6px 12px;
+}
+
+.menu .active {
+  background-color: #333;
+  color: white;
+}
+
+button {
+  margin-right: 8px;
+  cursor: pointer;
+}
